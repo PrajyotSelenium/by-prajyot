@@ -10,6 +10,8 @@ import org.openqa.selenium.support.ui.Select;
 
 import com.cjc.mercury_tours.webapp.utility.Common;
 
+// Register_page class
+
 public class Register_page {
 
 	  
