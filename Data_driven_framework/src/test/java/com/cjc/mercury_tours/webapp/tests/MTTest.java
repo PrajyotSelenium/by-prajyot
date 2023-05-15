@@ -27,7 +27,7 @@ import com.cjc.mercury_tours.webapp.pages.Login_page;
 import com.cjc.mercury_tours.webapp.pages.Register_page;
 import com.cjc.mercury_tours.webapp.utility.Common;
 
-// MTTest 
+// MTTest class
 
 public class MTTest {
 
