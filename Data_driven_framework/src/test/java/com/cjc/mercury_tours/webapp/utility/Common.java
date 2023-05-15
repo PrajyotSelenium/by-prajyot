@@ -16,6 +16,8 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.openqa.selenium.WebDriver;
 
+// Common class
+
 public class Common {
 
 	       public static WebDriver driver;
