@@ -9,6 +9,8 @@ import org.openqa.selenium.support.FindBy;
 
 import com.cjc.mercury_tours.webapp.utility.Common;
 
+// Login_page class
+
 public class Login_page {
 
 	         public Login_page(WebDriver driver)
