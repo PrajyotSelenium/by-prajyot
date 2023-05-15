@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T14:07:15Z" name="Default suite" finished-at="2023-05-15T14:07:53Z" duration-ms="38336">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T14:07:15Z" name="Default test" finished-at="2023-05-15T14:07:53Z" duration-ms="38336">
+      <class name="com.cjc.mercury_tours.webapp.tests.MTTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:14Z" name="openBrowser" finished-at="2023-05-15T14:07:15Z" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:15Z" name="openUrl" finished-at="2023-05-15T14:07:18Z" duration-ms="3285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="max()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:18Z" name="max" finished-at="2023-05-15T14:07:18Z" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- max -->
+        <test-method is-config="true" signature="timeoutAndCookies()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:18Z" name="timeoutAndCookies" finished-at="2023-05-15T14:07:21Z" duration-ms="3043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeoutAndCookies -->
+        <test-method signature="test()[pri:1, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:21Z" name="test" finished-at="2023-05-15T14:07:39Z" duration-ms="17181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:39Z" name="screenshot" finished-at="2023-05-15T14:07:39Z" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="timeoutAndCookies()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:39Z" name="timeoutAndCookies" finished-at="2023-05-15T14:07:42Z" duration-ms="3030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeoutAndCookies -->
+        <test-method signature="test0(java.lang.String, java.lang.String)[pri:2, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:42Z" name="test0" data-provider="getData" finished-at="2023-05-15T14:07:53Z" duration-ms="11246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prajyot Gujarkar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Prajyot_123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test0 -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:53Z" name="screenshot" finished-at="2023-05-15T14:07:53Z" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:53Z" name="deleteCookies" finished-at="2023-05-15T14:07:53Z" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="dbClose()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:53Z" name="dbClose" finished-at="2023-05-15T14:07:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbClose -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.cjc.mercury_tours.webapp.tests.MTTest@4ddbbdf8]" started-at="2023-05-15T14:07:53Z" name="browserClose" finished-at="2023-05-15T14:07:53Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.cjc.mercury_tours.webapp.tests.MTTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

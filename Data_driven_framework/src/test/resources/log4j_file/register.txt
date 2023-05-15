@@ -1,0 +1,436 @@
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully
+We have to registered successfully
+Register method called successfully
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully
+We have to registered successfully
+Register method called successfully
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully
+We have to registered successfully
+Register method called successfully
+We have to taken screenshots successfully
+Timeout successfully
+Details of cookies
+Name of cookies = usprivacy
+Name of cookies = demo.guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = 1---
+Name of cookies = /
+Name of cookies = Sat Jun 08 19:25:22 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = _pbjs_userid_consent_data
+Name of cookies = demo.guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = 6683316680106290
+Name of cookies = /
+Name of cookies = Wed Jun 14 19:25:39 IST 2023
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = _cc_id
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = 6e347c7be61d9f00157c70994002a0f8
+Name of cookies = /
+Name of cookies = Fri Feb 09 19:25:21 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = __gpi
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = UID=00000c06351c1d30:T=1684158919:RT=1684158919:S=ALNI_MbbmLegYLaZ3f318Eo8y9Oc6EvSZA
+Name of cookies = /
+Name of cookies = Sat Jun 08 19:25:19 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = _gat_gtag_UA_1248015_24
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = 1
+Name of cookies = /
+Name of cookies = Mon May 15 19:26:20 IST 2023
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = __gads
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = ID=f8265d451b86e214-228b1246d2e00070:T=1684158919:RT=1684158919:S=ALNI_Mbb8RqQjwb35t1sHyQc9MQXpgvwSQ
+Name of cookies = /
+Name of cookies = Sat Jun 08 19:25:19 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = _gid
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = GA1.2.1513472814.1684158920
+Name of cookies = /
+Name of cookies = Tue May 16 19:25:39 IST 2023
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = _sharedid
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = e20eb38a-a09e-4a06-b162-f36c9260604d
+Name of cookies = /
+Name of cookies = Tue May 14 19:25:20 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = geo-location
+Name of cookies = demo.guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = {"country":"IN","region":"MH"}
+Name of cookies = /
+Name of cookies = Tue May 16 19:25:22 IST 2023
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = ccpa-dau
+Name of cookies = demo.guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = true
+Name of cookies = /
+Name of cookies = Tue May 16 19:25:23 IST 2023
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = panoramaId_expiry
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = 1684245320083
+Name of cookies = /
+Name of cookies = Tue May 16 19:25:20 IST 2023
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = _ga
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = GA1.2.1210946534.1684158920
+Name of cookies = /
+Name of cookies = Tue Jun 18 19:25:39 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+Details of cookies
+Name of cookies = cto_bundle
+Name of cookies = .guru99.com
+Name of cookies = class org.openqa.selenium.Cookie
+Name of cookies = vRpYX19GYUJ0QmVMSUlEJTJCVk94Yzkyano5RTJWUHg5QlBSUEE5OXclMkZIZnBEN0lYeUdLektrNiUyRjRCTE9yR1JjNzR6MGx2Y1dETFlmYUk2RHJUYUF4ckdCeGwyVGpNS1JKNUtDaTNPTkt5TTVDRmRSaTBSamN3bUw1WmJsVmhFaXBra3I2VmxsZTlmcFVSZERHNlQlMkZUb3VvOHJSdyUzRCUzRA
+Name of cookies = /
+Name of cookies = Sat Jun 08 19:25:22 IST 2024
+Name of cookies = false
+Name of cookies = false
+==================================================================================
+We have to logged in successfully
+Login method called successfully
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully
+We have to registered successfully
+Register method called successfully
+We have to taken screenshots successfully
+Timeout successfully
+Details of cookies
+Name of cookies = usprivacy
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 1---
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:34:20 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _pbjs_userid_consent_data
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 6683316680106290
+Path of cookies = /
+Expiry date and time information of cookies = Wed Jun 14 19:34:36 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _cc_id
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 31beb5cf612ffb2c755cef060779ce92
+Path of cookies = /
+Expiry date and time information of cookies = Fri Feb 09 19:34:20 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = __gpi
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = UID=00000c0634dfbf7d:T=1684159458:RT=1684159458:S=ALNI_MZGDs3WUdl83OTYbVrNnPbBsxPC4Q
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:34:18 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _gat_gtag_UA_1248015_24
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 1
+Path of cookies = /
+Expiry date and time information of cookies = Mon May 15 19:35:18 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = __gads
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = ID=a0aca57bc90ba940:T=1684159458:S=ALNI_MZ8TIVSC048-XRMGt4R7y2KTDDwrw
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:34:18 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _gid
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = GA1.2.843269090.1684159458
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:34:36 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _sharedid
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = ed450288-8525-4d49-b591-bebecf15fbf5
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 14 19:34:17 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = geo-location
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = {"country":"IN","region":"MH"}
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:34:19 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = ccpa-dau
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = true
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:34:21 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = panoramaId_expiry
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 1684245859138
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:34:19 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _ga
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = GA1.2.919697037.1684159458
+Path of cookies = /
+Expiry date and time information of cookies = Tue Jun 18 19:34:36 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = cto_bundle
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = jSlzF19jOWFMbjlrNnJCUURONkdVanJYb2pHT2dxZUtlampRZ2N3JTJCblUxZU9lcnZ5V2gyNTVaYjZyQm1nZkFxQWk2YmZFSllQOTh2Qno3a01VSlZaUTJqSjVFeW9TbmJkY25pYkNYNnZlcFU5YTZ6eXJUbTJIVzRTSFNUc2s5VjU4YzRVT0g1UWdvWXZPbFJzVWVkJTJGRDAwMVlRJTNEJTNE
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:34:21 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+We have to logged in successfully
+Login method called successfully
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully
+We have to registered successfully
+Register method called successfully
+We have to taken screenshots successfully
+Timeout successfully
+Details of cookies
+Name of cookies = usprivacy
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 1---
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:37:19 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _pbjs_userid_consent_data
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 6683316680106290
+Path of cookies = /
+Expiry date and time information of cookies = Wed Jun 14 19:37:35 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _cc_id
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = caafd2c23bc47502321caffbd4cb561c
+Path of cookies = /
+Expiry date and time information of cookies = Fri Feb 09 19:37:18 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = __gpi
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = UID=00000c0634be26d9:T=1684159636:RT=1684159636:S=ALNI_Mau5GakWEJX3xU72qp981jT8EPArg
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:37:16 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _gat_gtag_UA_1248015_24
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 1
+Path of cookies = /
+Expiry date and time information of cookies = Mon May 15 19:38:17 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = __gads
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = ID=a53518be4657ec12:T=1684159636:S=ALNI_MbSNY1qaeKFiSlFpjY1i2MckMwL-Q
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:37:16 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _gid
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = GA1.2.373694652.1684159637
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:37:35 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _sharedid
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = bdd9e035-2179-499b-831b-86ec5742b71d
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 14 19:37:16 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = geo-location
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = {"country":"IN","region":"MH"}
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:37:19 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = ccpa-dau
+Domain of cookies = demo.guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = true
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:37:20 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = panoramaId_expiry
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = 1684246037300
+Path of cookies = /
+Expiry date and time information of cookies = Tue May 16 19:37:17 IST 2023
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = _ga
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = GA1.2.1753723579.1684159637
+Path of cookies = /
+Expiry date and time information of cookies = Tue Jun 18 19:37:35 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+Details of cookies
+Name of cookies = cto_bundle
+Domain of cookies = .guru99.com
+Class name of cookies = class org.openqa.selenium.Cookie
+Value of cookies = abbRd184SGIyJTJCTTdFYkxLekUlMkI2ZU5SUFlDbDhlbkY2THdPblFqZlc1TVdYTVRwRkViNmpMWXVndllLbVglMkZ1Uzd6V2ZsVUx0YlZaJTJCcVRkczNZaSUyRlpWRGpvMVlsQ2ZNUWpRZGxWaSUyQlRHU2JwTUthaWliV2x6M004TWRMaXh2aGJkV3drdnI2VDM0d3FvSUgxM1VtJTJGU3IyWCUyRjNRJTNEJTNE
+Path of cookies = /
+Expiry date and time information of cookies = Sat Jun 08 19:37:19 IST 2024
+Is http only? = false
+Is cookies secure? = false
+==================================================================================
+We have to logged in successfully
+Login method called successfully
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully

@@ -1,0 +1,6 @@
+We have to logged in successfully
+Login method called successfully
+We have to taken screenshots successfully
+After deleted all cookies
+Database connections are closed successfully
+Browser closed successfully
